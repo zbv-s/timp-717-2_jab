@@ -1,0 +1,14 @@
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\Newtonsoft.Json.dll
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\xNet.dll
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\Newtonsoft.Json.xml
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Author.resources
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+C:\Users\aleks\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojAssemblyReference.cache
